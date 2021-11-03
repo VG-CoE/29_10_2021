@@ -1,0 +1,12 @@
+<environmentvariabledefinition schemaname="crcf9_29_10_2021_SPO_SIte">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <displayname default="29_10_2021_SPO_SIte">
+    <label description="29_10_2021_SPO_SIte" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>dataset</parameterkey>
+  <secretstore>0</secretstore>
+  <type>100000004</type>
+</environmentvariabledefinition>
